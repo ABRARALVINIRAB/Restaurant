@@ -1,0 +1,16 @@
+.banner {
+    height: 400px;
+    width: 100%;
+
+}
+
+.search-box-container {
+    margin-top: 180px;
+    border-radius: 30px;
+    width: 400px;
+}
+
+.search-box-button button {
+    border-radius: 30px;
+    background-color: violet;
+}

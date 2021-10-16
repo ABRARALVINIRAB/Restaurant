@@ -1,0 +1,19 @@
+.nav-container {
+    background-color: whitesmoke;
+    
+}
+
+.logo {
+    height: 60px;
+    width: 300px;
+}
+.sign-up-button{
+    border-radius: 30px;
+    color: white;
+}
+.links{
+    text-decoration: none;
+    margin-right: 20px;
+    color: tomato;
+    padding: 20px;
+}

@@ -1,0 +1,23 @@
+.foods-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+/* @media screen and (max-width:688px)  {
+    .foods-container{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+
+    
+} */
+.nav-link{
+    text-decoration: none;
+    margin-right: 10px;
+    
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
